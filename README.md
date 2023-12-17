@@ -8,7 +8,9 @@ Create project
 **adding axon**
 ![Screenshot_2.png](screens%2FScreenshot_2.png)
 
+# 1 LA PARTIE ECRITURE
 --------------
+
 
 **TEST 1 (Adding to mysql):** 
 
@@ -61,3 +63,31 @@ TESTER AVEC UNE VALEUR SUPERIEUR A BALANCE
 ![Screenshot_15.png](screens%2FScreenshot_15.png)
 Verifier eventstore
 ![Screenshot_16.png](screens%2FScreenshot_16.png)
+
+--------------
+# 2 LA PARTIE LECTURE
+
+Créer un compte et l'activer + console log
+![Screenshot_17.png](screens%2FScreenshot_17.png)
+
+![Screenshot_18.png](screens%2FScreenshot_18.png)
+
+![Screenshot_19.png](screens%2FScreenshot_19.png)
+
+Debiter un compte
+
+![Screenshot_20.png](screens%2FScreenshot_20.png)
+![Screenshot_21.png](screens%2FScreenshot_21.png)
+
+Crediter un compte
+
+![Screenshot_22.png](screens%2FScreenshot_22.png)
+![Screenshot_23.png](screens%2FScreenshot_23.png) 
+
+Operations
+![Screenshot_23.png](screens%2FScreenshot_23.png)
+
+Création des controllers
+![Screenshot_25.png](screens%2FScreenshot_25.png)
+Find By id 
+![Screenshot_26.png](screens%2FScreenshot_26.png)
